@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'seooptimiser.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'blogdb',
-        'USER': 'bloguser',
-        'PASSWORD': '123',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': '350350f350350f',
         'HOST': 'localhost',
         'PORT': '5432',
         }
